@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Dresden, Germany"
-title                    : "Dr."
+title                    : ""
 title_separator          : "-"
 name                     : &name "Dr. Ming Fu"
 description              : &description "Director of Huawei Dresden Research Center"
